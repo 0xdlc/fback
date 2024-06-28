@@ -1,3 +1,5 @@
+A tool that automatically generates backup file-names based on specific extensions and user-defined naming conventions.
+
 # Usage:
 `python fback.py -u Target (Full url eg.: api.v1.apple.com)`
 
